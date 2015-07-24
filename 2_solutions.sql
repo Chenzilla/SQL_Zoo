@@ -65,4 +65,3 @@ WHEN continent = 'Caribbean' THEN 'South America'
 ELSE continent END
 FROM world
 ORDER BY name;
-
