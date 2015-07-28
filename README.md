@@ -1,2 +1,2 @@
 # SQL Zoo
-Exercise in SQL; content from: http://sqlzoo.net/wiki/SQL_Tutorial. 
+Answers to all tutorials from SQLZoo; content from: http://sqlzoo.net/wiki/SQL_Tutorial. 
